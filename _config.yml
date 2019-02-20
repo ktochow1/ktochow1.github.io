@@ -1,11 +1,11 @@
 # Site settings
-author: ktochow1
-title: 
+author: Kat Tochowicz
+title: Kat Codes
 header-img: img/home-bg.png
 email: ktochow1@binghamton.edu
-copyright_name: ktochow1
+copyright_name: Kat Tochowicz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning how to code one byte at a time. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ktochow1
